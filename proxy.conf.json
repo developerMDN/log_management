@@ -1,0 +1,7 @@
+{
+    "/api/LogProyecto": {
+        "target": "http://localhost:58546",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
